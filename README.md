@@ -1,4 +1,10 @@
 # Tugas Pengganti UAS Kelompok 5
+
+Anggota Kelompok 5 :
+1. Eko Rahayu - 2101181004  
+2. Aan Eko Setiawan - 2101182032
+3. Angga Juliat - 2101181003
+
 Tugas Pengganti UAS
 
 UAS 1: Dimensionality Reduction Method Comparison
